@@ -1,0 +1,1 @@
+Permission Denial: reading com.android.providers.downloads.DownloadStorageProvider uri content://com.android.providers.downloads.documents/document/91 from pid=7870, uid=10128 requires that you obtain access using ACTION_OPEN_DOCUMENT or relprogrammprogrammingingated APIs
